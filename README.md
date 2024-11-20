@@ -7,11 +7,27 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<div style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f9f9f9;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; padding: 20px; gap: 20px;">
+    <div style="background: #fff; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 300px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+      <a href="https://medium.com/@rathnayakenethmiit/task-delegation-algorithm-algorithm-evaluation-0edc9f0f6321" target="_blank" style="text-decoration: none; color: #333;">
+        <h3 style="font-size: 1.2rem; margin: 16px; color: #0073e6;">Task Delegation Algorithm — Algorithm Evaluation</h3>
+        <p style="font-size: 0.95rem; margin: 16px; line-height: 1.4; color: #555;">Contains an algorithm evaluation done to the algorithm developed in the 2nd year software project.</p>
+      </a>
+    </div>
+    <div style="background: #fff; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 300px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+      <a href="https://medium.com/@rathnayakenethmiit/what-is-solid-mastering-resilient-code-with-c-examples-8d617a08dfa4" target="_blank" style="text-decoration: none; color: #333;">
+        <h3 style="font-size: 1.2rem; margin: 16px; color: #0073e6;">What is SOLID? Mastering Resilient Code with C# Examples</h3>
+        <p style="font-size: 0.95rem; margin: 16px; line-height: 1.4; color: #555;">Contains what are SOLID principles with some examples.</p>
+      </a>
+    </div>
+  </div>
+</div>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nethmi rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethmi rathnayake" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nethmi-rathnayake-20bb8b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethmi rathnayake" height="30" width="40" /></a>
 <a href="https://medium.com/@rathnayakenethmiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rathnayakenethmiit" height="30" width="40" /></a>
 </p>
 
