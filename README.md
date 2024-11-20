@@ -12,8 +12,9 @@
     <div style="background: #fff; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 300px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;">
       <a href="https://medium.com/@rathnayakenethmiit/task-delegation-algorithm-algorithm-evaluation-0edc9f0f6321" target="_blank" style="font-size: 1.2rem; margin: 16px; color: #fff; text-decoration:none;">
        Task Delegation Algorithm — Algorithm Evaluation
+       </a>
         <p style="font-size: 0.95rem; margin: 16px; line-height: 1.4; color: #555;">Contains an algorithm evaluation done to the algorithm developed in the 2nd year software project.</p>
-      </a>
+     
     </div>
    <a href="https://medium.com/@rathnayakenethmiit/what-is-solid-mastering-resilient-code-with-c-examples-8d617a08dfa4" target="blank" style="font-size: 1.2rem; margin: 16px; color: #fff; text-decoration:none;">
            What is SOLID? Mastering Resilient Code with C# Examples
