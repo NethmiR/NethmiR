@@ -10,8 +10,8 @@
 <div style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f9f9f9;">
   <div style="display: flex; justify-content: space-around; padding: 20px; gap: 20px;">
     <div style="background: #fff; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 300px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;">
-      <a href="https://medium.com/@rathnayakenethmiit/task-delegation-algorithm-algorithm-evaluation-0edc9f0f6321" target="_blank" style="text-decoration: none; color: #333; display: block;">
-        <h3 style="font-size: 1.2rem; margin: 16px; color: #0073e6;">Task Delegation Algorithm — Algorithm Evaluation</h3>
+      <a href="https://medium.com/@rathnayakenethmiit/task-delegation-algorithm-algorithm-evaluation-0edc9f0f6321" target="_blank" style="font-size: 1.2rem; margin: 16px; color: #fff; text-decoration:none;">
+       Task Delegation Algorithm — Algorithm Evaluation
         <p style="font-size: 0.95rem; margin: 16px; line-height: 1.4; color: #555;">Contains an algorithm evaluation done to the algorithm developed in the 2nd year software project.</p>
       </a>
     </div>
