@@ -1,28 +1,29 @@
 <h1 align="center">Hi 👋, I'm Nethmi Rathnayake</h1>
 <h3 align="center">Passionate software engineering student and aspiring developer. Currently pursuing an IT degree, with a focus on the engineering aspects of development. Eager to build and contribute to innovative solutions through code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmir&label=Profile%20views&color=0e75b6&style=flat" alt="nethmir" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmir&label=Profile%20views&color=0e75b6&style=flat" alt="nethmir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nethmir" alt="nethmir" /></a> </p>
-
+-->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <div style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f9f9f9;">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; padding: 20px; gap: 20px;">
-    <div style="background: #fff; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 300px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <a href="https://medium.com/@rathnayakenethmiit/task-delegation-algorithm-algorithm-evaluation-0edc9f0f6321" target="_blank" style="text-decoration: none; color: #333;">
+  <div style="display: flex; justify-content: space-around; padding: 20px; gap: 20px;">
+    <div style="background: #fff; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 300px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;">
+      <a href="https://medium.com/@rathnayakenethmiit/task-delegation-algorithm-algorithm-evaluation-0edc9f0f6321" target="_blank" style="text-decoration: none; color: #333; display: block;">
         <h3 style="font-size: 1.2rem; margin: 16px; color: #0073e6;">Task Delegation Algorithm — Algorithm Evaluation</h3>
         <p style="font-size: 0.95rem; margin: 16px; line-height: 1.4; color: #555;">Contains an algorithm evaluation done to the algorithm developed in the 2nd year software project.</p>
       </a>
     </div>
-    <div style="background: #fff; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 300px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <a href="https://medium.com/@rathnayakenethmiit/what-is-solid-mastering-resilient-code-with-c-examples-8d617a08dfa4" target="_blank" style="text-decoration: none; color: #333;">
+    <div style="background: #fff; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 300px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;">
+      <a href="https://medium.com/@rathnayakenethmiit/what-is-solid-mastering-resilient-code-with-c-examples-8d617a08dfa4" target="_blank" style="text-decoration: none; color: #333; display: block;">
         <h3 style="font-size: 1.2rem; margin: 16px; color: #0073e6;">What is SOLID? Mastering Resilient Code with C# Examples</h3>
         <p style="font-size: 0.95rem; margin: 16px; line-height: 1.4; color: #555;">Contains what are SOLID principles with some examples.</p>
       </a>
     </div>
   </div>
 </div>
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
